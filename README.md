@@ -27,21 +27,21 @@ Fonctionnalités présentes :
 
 - Local Port
 
--Local addr.
+- Local addr.
 
-Remote Port
+- Remote Port
 
-Protocol
+- Protocol
 
-Remote User
+- Remote User
 
-Server name
+- Server name
 
-Reader
+- Reader
 
-AuthType
+- AuthType
 
-Session
+- Session
 
 Technologies :
 
